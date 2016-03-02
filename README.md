@@ -1,8 +1,8 @@
 # Web chat description
 High-level user stories
 
+1.User will be able to create his own profile.
 
-1.User will be able to create his own profile
 2. User will be able to access the system without his account, joining as a guest.
 3. User will be able to communicate with other people in a common chat.
 4. There will be an possibility to create a closed chat channel for each registered user.
