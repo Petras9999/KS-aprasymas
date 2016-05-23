@@ -10,4 +10,4 @@ High-level user stories
 7. User in his profile will be able to provide personal information.
 8. User will be able to visit another user's profile.
 9. User will be able to see the members, who are connected to the system.
-10. User will be able to clear the prisikaupusias messages in the chat window by clicking the appropriate button.
+10. User will be able to clear the messages in the chat window by clicking the appropriate button in his own private room.
